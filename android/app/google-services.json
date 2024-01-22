@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "148144097108",
+    "firebase_url": "https://registration-1464d-default-rtdb.firebaseio.com",
+    "project_id": "registration-1464d",
+    "storage_bucket": "registration-1464d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148144097108:android:7201b290ae3331e02a6ac1",
+        "android_client_info": {
+          "package_name": "com.example.registration_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148144097108-mo604piqknpesj81v9r55i47h4gicmr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa3gBGanwvZDDVa-mjkDL2GZE6mF15-g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148144097108-mo604piqknpesj81v9r55i47h4gicmr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
